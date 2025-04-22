@@ -1,4 +1,4 @@
-# Header_Script.py — Email Header & Threat Analyzer SOP
+# Header_Script.py — Email Header & Threat Analyzer
 
 `Header_Script.py` is a lightweight web application built using Flask. It is designed for Blue Team analysts, SOC operators, and cybersecurity learners to analyze email headers, extract embedded URLs and domains, and interactively scan selected elements using VirusTotal.
 
