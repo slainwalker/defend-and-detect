@@ -7,7 +7,7 @@ from flask import Flask, render_template_string, request
 
 app = Flask(__name__)
 
-VT_API_KEY = "4e0c59bc7f98f68ada1f2caae937800ac3edacef75ecf0c2e70997c3e2c7f21e"
+VT_API_KEY = "ADD_YOUR_KEY"
 
 HTML_TEMPLATE = """
 <!doctype html>
