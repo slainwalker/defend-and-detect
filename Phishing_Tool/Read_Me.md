@@ -1,8 +1,3 @@
-Absolutely! Below is a full `.md` block for **`Header_Script.py`** — written in the same clean SOP-style Markdown format you used for the phishing SOP. This is fully self-contained and ready to paste directly as a `README.md` or documentation file inside your GitHub repo.
-
----
-
-````markdown
 # Header_Script.py — Email Header & Threat Analyzer SOP
 
 `Header_Script.py` is a lightweight web application built using Flask. It is designed for Blue Team analysts, SOC operators, and cybersecurity learners to analyze email headers, extract embedded URLs and domains, and interactively scan selected elements using VirusTotal.
